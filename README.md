@@ -1,4 +1,4 @@
-Day 06 - BreathClock
+**#BreathClock**
 
 Detects your breathing rate in real time using only your laptop microphone.
 
